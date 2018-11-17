@@ -6,4 +6,4 @@ age, BMI, smoking habits, number of children, and region. I have explored the da
 variate regression to predict overall charges The data was obtained from Kaggle.com (https://www.kaggle.com/mirichoi0218/insurance). 
 Nothing overally fancy, just some good old fashioned data science to help try and gain insight from a bunch of numbers!
 
-The results are there to try and direct, educate both client and insurance company in order to for a healthier life, but also to save some money for possibe future charges. 
+The results are there to try and direct, educate both client and insurance company in order to for clients to have a healthier life, but also to save some money for possibe future charges. 
