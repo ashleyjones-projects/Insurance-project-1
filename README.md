@@ -5,3 +5,5 @@ age, BMI, smoking habits, number of children, and region. I have explored the da
 (matplotlib, seaborn, plylab) and have used sklearn and statsmodels to determine feature importance,as well as, using multi 
 variate regression to predict overall charges The data was obtained from Kaggle.com (https://www.kaggle.com/mirichoi0218/insurance). 
 Nothing overally fancy, just some good old fashioned data science to help try and gain insight from a bunch of numbers!
+
+The results are there to try and direct, educate, and both client and insurance company in order to for a healthierlife, but also to save some money for possibe future charges. 
